@@ -1,0 +1,8 @@
+js:
+  dmPrettyPhotoBehaviorPlugin:
+    prettyPhoto:  jquery.prettyPhoto.modified.min
+    behavior:     dmPrettyPhotoBehavior
+    
+css:
+  dmPrettyPhotoBehaviorPlugin:
+    prettyPhoto:  prettyPhoto

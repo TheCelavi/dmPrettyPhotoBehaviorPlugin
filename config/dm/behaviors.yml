@@ -1,0 +1,6 @@
+dmBehaviors:
+  dmPrettyPhotoBehavior:
+    section: Media Gallery
+    name: Pretty Photo
+    form: dmPrettyPhotoBehaviorForm
+    view: dmPrettyPhotoBehaviorView
